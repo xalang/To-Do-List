@@ -18,3 +18,6 @@ A Multi-User To-Do List made using the MERN Stack
 
 ### Edit To-do
 ![Edit To-do](DemoGifs/editTodo.gif)
+
+### Steps to Deploy
+Add your own MongoDB key in the .env file in the backend folder, which allows the app to store users and to-do items in your own database.
